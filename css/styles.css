@@ -18,6 +18,17 @@ h3 {
 p {
   font-family: sans-serif;
 }
+.image{
+  text-align: center;
+}
+body {
+  background-color:808080; 
+}
+.image img{
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+}
 ul {
   line-height: 40px;
 }
